@@ -1,0 +1,34 @@
+﻿SHA256 Manifest generated on 2025-10-14 10:06:41
+E985EC3F1216CD2F40A8F9649A555B52DF1B6CE47EDF367A794BD2D8068B154B *C:\Users\Spenc\Desktop_Local\tesla\SHA256_manifest.txt
+429BED1802E1BEA0FE76189F540F15C6A8F0FB0880BBB2FA812654AE5C92948C *C:\Users\Spenc\Desktop_Local\tesla\Tesla vs Mint-to Logic™ Stack — Enforcement-Level Mapping.docx
+F522DDD5A9DA7C0155BB2215DBE79AC316E5B38E66E23C3CBD3746CA8A893453 *C:\Users\Spenc\Desktop_Local\tesla\chatgpt\Series_ Tesla, Autonomy & IP Overlap (Ask Copilot).docx
+E6940ED4752ED1EFB35E409365C806E83D24417E9AB5D9E5A924DF9283F3CAD6 *C:\Users\Spenc\Desktop_Local\tesla\copilot\copilot answers the questions from gpt.docx
+50802DF2EEE4A54EB0526FEC4E616901D7DE1A86863BA5B3EFE458EE15D0EDA2 *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_9271_www.yeslak.com.jpeg
+1E85567E1387CC8BEDE5A0CD28684CC506BD88BA79B448938BF5ACDAF470742F *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_92741_engineerine.com.jpeg
+4438F45D3FE902E16DD075E7FF19030C6C6B132D0024B6E8D15792FB2F0B8B33 *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_92810_www.notateslaapp.com.jpeg
+53D2AA235F7322E71AB3BE8E34B40FB81A5916A1F6207CEE3BD043C7A3BA2BE0 *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_92837_www.tesla.com.jpeg
+23CAE3B796DD63195752642715732D04C57CF00B0A2DE64016961AD7CC2FD863 *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_92859_developer.tesla.com.jpeg
+F29CF76D521FCBBE7E7FF930F688CC2E77C03274EF39D311E103231758231F70 *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_92935_www.notateslaapp.com.jpeg
+FDE9209136BC1CFF343825F535E4D190A6E4278FED5A582175B06FE96C0DC1AE *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_93034_ilovetesla.com.jpeg
+FDE9209136BC1CFF343825F535E4D190A6E4278FED5A582175B06FE96C0DC1AE *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_9308_ilovetesla.com.jpeg
+2CB8C1A9900E380FCA8F44EAFF3E326DD196BDC20F7CFEE34437A90D39AE9A3A *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_93115_www.sangfor.com.jpeg
+D87BDB901A6C3A67B5C31157F353B6D326DB3BDD491E7518823B3D6E6BD2AE67 *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_93229_www.tesla.com.jpeg
+0605D7FFA85796B681BD3597527181F8BC255C39FB390A1612F23F83F184E235 *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_9322_www.sangfor.com.jpeg
+3834A2E82124939B9C728A3B4D484789705072E1A1F37B0BE955974412049FE1 *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_93259_orquidea.ai.jpeg
+FEE766251C793D34D26AD8560ED83619E5E0796D6806B940AEC33C6B8D162EC2 *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_93337_www.klover.ai.jpeg
+6CB97BCB490DA59491D04EFC1B272D47E43C02857321528DD38EA4B5D0E1D286 *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_93421_www.klover.ai.jpeg
+9CAD51DDA60C72E0EB70BBB5F0D82DA2B928F4EB9111B35927429A94E85DCDEE *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_93517_arxiv.org.jpeg
+184A4F533748D3FCA6E51BB5560615B4A98F275F41417FD2981E950CBEF4AD98 *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_93548_www.teslarati.com.jpeg
+E964527DD77BC016533148CBF7F8C3713F6ED5F5640372937207A1E50AB8FE83 *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_93652_www.teslarati.com.jpeg
+561340F1B35ECB48DD07501DF0DD5C82D8DF16BE18AE402D55600DFF7681AB7E *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_93711_www.teslarati.com.jpeg
+98521A1D83F75C459167F284AAC48364AD9B2D720A30091397BD5351B15707DC *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_9381_teslanorth.com.jpeg
+7B31E6A298CE6C81A89E24CBAC4E21F0D6F6FAA1B7662DDCECC1ECA4016E8C13 *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_93931_developer.tesla.com.jpeg
+3994805FE1CA0FB6D78361E9ACBC802E80DBA9D5FA80EE1E578FDBFB74EF94BA *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_9399_developer.tesla.com.jpeg
+0A1CAFCF256AD9A9910079B1BD0B2A9AF28D669A75C5F8A01230051DDB20D996 *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_94018_community.chargehq.net.jpeg
+256B75B2B2C014C48D5BD8B45E03CE0E2970C6F89D214A8E63DABA49BB1F6181 *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_94157_www.forbes.com.jpeg
+127996159ABEC07CC643330C54B6FA771ED89CA4EC8999309F52B729E6705DF3 *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_94444_sustainabletechpartner.com.jpeg
+A07CE79825E1C603DD13AF5A7A38B928DD0CED66791EDE6E1B8925C0A8AD672F *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_9458_www.teslaacessories.com.jpeg
+DC71BC0CF4465332AF36579A5C1A7EDF2504A8D482357A0A8923DEED584865AA *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_9461_automatelife.net.jpeg
+D1B914BD49B28BDEFD407FF6CC82F6E6EBA1E3116C24F9E4319BCBBF9789AF90 *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_94734_insideevs.com.jpeg
+45E825E9BEE7842346E1C126DC348BC84FF509D53DFB65D39672FCF0EF721753 *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_95714_insideevs.com.jpeg
+2E7F5567BF63229EBDB3FD30F34F6E3081EFF53767FE61FEDC77099006D573AD *C:\Users\Spenc\Desktop_Local\tesla\copilot\sources\Screenshot_14-10-2025_95745_www.ecosystemizer.com.jpeg
